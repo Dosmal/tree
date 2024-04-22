@@ -1,0 +1,467 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      The system is: Windows - 10.0.19045 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      ‚ҐабЁп MSBuild 17.9.8+b34f75857 ¤«п .NET Framework
+      ‘Ў®аЄ  ­ з в  22.04.2024 15:17:38.
+      
+      Џа®ҐЄв "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\3.29.2\\CompilerIdC\\CompilerIdC.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+      PrepareForBuild:
+        ‘®§¤ ­ЁҐ Є в «®Ј  "Debug\\".
+        ‘вагЄвгаЁа®ў ­­л© ўлў®¤ ўЄ«озҐ­. ”®а¬ вЁа®ў ­ЁҐ ¤Ё Ј­®бвЁЄЁ Є®¬ЇЁ«пв®а  Ўг¤Ґв ®ва ¦ вм ЁҐа аеЁо ®иЁЎ®Є. Џ®¤а®Ў­ҐҐ б¬. https://aka.ms/cpp/structured-output.
+        ‘®§¤ ­ЁҐ Є в «®Ј  "Debug\\CompilerIdC.tlog\\".
+      InitializeBuildStatus:
+        ‘®§¤ ­ЁҐ "Debug\\CompilerIdC.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+        ЋЎа йҐ­ЁҐ Є "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+      ClCompile:
+        D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+        CMakeCCompilerId.c
+      Link:
+        D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
+        CompilerIdC.vcxproj -> D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\3.29.2\\CompilerIdC\\CompilerIdC.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_C_COMPILER=D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        ” ©« "Debug\\CompilerIdC.tlog\\unsuccessfulbuild" г¤ «пҐвбп.
+        ЋЎа йҐ­ЁҐ Є "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate".
+      ‘Ў®аЄ  Їа®ҐЄв  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\3.29.2\\CompilerIdC\\CompilerIdC.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+      
+      ‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+          ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+          ЋиЁЎ®Є: 0
+      
+      Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.13
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+      
+      The C compiler identification is MSVC, found in:
+        D:/Учёба/Презентации/3 курс/Производственная практика/FinalTree/build/CMakeFiles/3.29.2/CompilerIdC/CompilerIdC.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      ‚ҐабЁп MSBuild 17.9.8+b34f75857 ¤«п .NET Framework
+      ‘Ў®аЄ  ­ з в  22.04.2024 15:17:40.
+      
+      Џа®ҐЄв "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\3.29.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+      PrepareForBuild:
+        ‘®§¤ ­ЁҐ Є в «®Ј  "Debug\\".
+        ‘вагЄвгаЁа®ў ­­л© ўлў®¤ ўЄ«озҐ­. ”®а¬ вЁа®ў ­ЁҐ ¤Ё Ј­®бвЁЄЁ Є®¬ЇЁ«пв®а  Ўг¤Ґв ®ва ¦ вм ЁҐа аеЁо ®иЁЎ®Є. Џ®¤а®Ў­ҐҐ б¬. https://aka.ms/cpp/structured-output.
+        ‘®§¤ ­ЁҐ Є в «®Ј  "Debug\\CompilerIdCXX.tlog\\".
+      InitializeBuildStatus:
+        ‘®§¤ ­ЁҐ "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+        ЋЎа йҐ­ЁҐ Є "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
+      ClCompile:
+        D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+        CMakeCXXCompilerId.cpp
+      Link:
+        D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
+        CompilerIdCXX.vcxproj -> D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\3.29.2\\CompilerIdCXX\\CompilerIdCXX.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_CXX_COMPILER=D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        ” ©« "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild" г¤ «пҐвбп.
+        ЋЎа йҐ­ЁҐ Є "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate".
+      ‘Ў®аЄ  Їа®ҐЄв  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\3.29.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+      
+      ‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+          ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+          ЋиЁЎ®Є: 0
+      
+      Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.14
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+      
+      The CXX compiler identification is MSVC, found in:
+        D:/Учёба/Презентации/3 курс/Производственная практика/FinalTree/build/CMakeFiles/3.29.2/CompilerIdCXX/CompilerIdCXX.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:64 (try_compile)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-4vxj23"
+      binary: "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-4vxj23"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/Учёба/Презентации/3 курс/Производственная практика/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-4vxj23'
+        
+        Run Build Command(s): "D:/Visual Studio 2022/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_50a93.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        ‚ҐабЁп MSBuild 17.9.8+b34f75857 ¤«п .NET Framework
+        ‘Ў®аЄ  ­ з в  22.04.2024 15:17:42.
+        
+        Џа®ҐЄв "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4vxj23\\cmTC_50a93.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        PrepareForBuild:
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_50a93.dir\\Debug\\".
+          ‘вагЄвгаЁа®ў ­­л© ўлў®¤ ўЄ«озҐ­. ”®а¬ вЁа®ў ­ЁҐ ¤Ё Ј­®бвЁЄЁ Є®¬ЇЁ«пв®а  Ўг¤Ґв ®ва ¦ вм ЁҐа аеЁо ®иЁЎ®Є. Џ®¤а®Ў­ҐҐ б¬. https://aka.ms/cpp/structured-output.
+          ‘®§¤ ­ЁҐ Є в «®Ј  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4vxj23\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_50a93.dir\\Debug\\cmTC_50a93.tlog\\".
+        InitializeBuildStatus:
+          ‘®§¤ ­ЁҐ "cmTC_50a93.dir\\Debug\\cmTC_50a93.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+          ЋЎа йҐ­ЁҐ Є "cmTC_50a93.dir\\Debug\\cmTC_50a93.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_50a93.dir\\Debug\\\\" /Fd"cmTC_50a93.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+          ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.39.33523 ¤«п x64
+          (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_50a93.dir\\Debug\\\\" /Fd"cmTC_50a93.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+          CMakeCCompilerABI.c
+        Link:
+          D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4vxj23\\Debug\\cmTC_50a93.exe" /INCREMENTAL /ILK:"cmTC_50a93.dir\\Debug\\cmTC_50a93.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/“зсЎ /ЏаҐ§Ґ­в жЁЁ/3 Єгаб/Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ /FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-4vxj23/Debug/cmTC_50a93.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/“зсЎ /ЏаҐ§Ґ­в жЁЁ/3 Єгаб/Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ /FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-4vxj23/Debug/cmTC_50a93.lib" /MACHINE:X64  /machine:x64 cmTC_50a93.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_50a93.vcxproj -> D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4vxj23\\Debug\\cmTC_50a93.exe
+        FinalizeBuildStatus:
+          ” ©« "cmTC_50a93.dir\\Debug\\cmTC_50a93.tlog\\unsuccessfulbuild" г¤ «пҐвбп.
+          ЋЎа йҐ­ЁҐ Є "cmTC_50a93.dir\\Debug\\cmTC_50a93.tlog\\cmTC_50a93.lastbuildstate".
+        ‘Ў®аЄ  Їа®ҐЄв  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4vxj23\\cmTC_50a93.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        
+        ‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+            ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+            ЋиЁЎ®Є: 0
+        
+        Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.19
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:170 (message)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': D:/Visual Studio 2022/VC/Tools/MSVC/14.39.33519/bin/HostX64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:207 (cmake_determine_linker_id)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Running the C compiler's linker: "D:/Visual Studio 2022/VC/Tools/MSVC/14.39.33519/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.39.33523.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:64 (try_compile)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-0gmd3s"
+      binary: "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-0gmd3s"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/Учёба/Презентации/3 курс/Производственная практика/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-0gmd3s'
+        
+        Run Build Command(s): "D:/Visual Studio 2022/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_81ebf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        ‚ҐабЁп MSBuild 17.9.8+b34f75857 ¤«п .NET Framework
+        ‘Ў®аЄ  ­ з в  22.04.2024 15:17:43.
+        
+        Џа®ҐЄв "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0gmd3s\\cmTC_81ebf.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        PrepareForBuild:
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_81ebf.dir\\Debug\\".
+          ‘вагЄвгаЁа®ў ­­л© ўлў®¤ ўЄ«озҐ­. ”®а¬ вЁа®ў ­ЁҐ ¤Ё Ј­®бвЁЄЁ Є®¬ЇЁ«пв®а  Ўг¤Ґв ®ва ¦ вм ЁҐа аеЁо ®иЁЎ®Є. Џ®¤а®Ў­ҐҐ б¬. https://aka.ms/cpp/structured-output.
+          ‘®§¤ ­ЁҐ Є в «®Ј  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0gmd3s\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_81ebf.dir\\Debug\\cmTC_81ebf.tlog\\".
+        InitializeBuildStatus:
+          ‘®§¤ ­ЁҐ "cmTC_81ebf.dir\\Debug\\cmTC_81ebf.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+          ЋЎа йҐ­ЁҐ Є "cmTC_81ebf.dir\\Debug\\cmTC_81ebf.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_81ebf.dir\\Debug\\\\" /Fd"cmTC_81ebf.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.39.33523 ¤«п x64
+          (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_81ebf.dir\\Debug\\\\" /Fd"cmTC_81ebf.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          CMakeCXXCompilerABI.cpp
+        Link:
+          D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0gmd3s\\Debug\\cmTC_81ebf.exe" /INCREMENTAL /ILK:"cmTC_81ebf.dir\\Debug\\cmTC_81ebf.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/“зсЎ /ЏаҐ§Ґ­в жЁЁ/3 Єгаб/Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ /FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-0gmd3s/Debug/cmTC_81ebf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/“зсЎ /ЏаҐ§Ґ­в жЁЁ/3 Єгаб/Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ /FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-0gmd3s/Debug/cmTC_81ebf.lib" /MACHINE:X64  /machine:x64 cmTC_81ebf.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_81ebf.vcxproj -> D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0gmd3s\\Debug\\cmTC_81ebf.exe
+        FinalizeBuildStatus:
+          ” ©« "cmTC_81ebf.dir\\Debug\\cmTC_81ebf.tlog\\unsuccessfulbuild" г¤ «пҐвбп.
+          ЋЎа йҐ­ЁҐ Є "cmTC_81ebf.dir\\Debug\\cmTC_81ebf.tlog\\cmTC_81ebf.lastbuildstate".
+        ‘Ў®аЄ  Їа®ҐЄв  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0gmd3s\\cmTC_81ebf.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        
+        ‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+            ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+            ЋиЁЎ®Є: 0
+        
+        Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.19
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:170 (message)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': D:/Visual Studio 2022/VC/Tools/MSVC/14.39.33519/bin/HostX64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:207 (cmake_determine_linker_id)"
+      - "D:/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Running the CXX compiler's linker: "D:/Visual Studio 2022/VC/Tools/MSVC/14.39.33519/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.39.33523.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/CMake/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "D:/CMake/share/cmake-3.29/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "D:/CMake/share/cmake-3.29/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/_deps/googletest-src/googletest/cmake/internal_utils.cmake:66 (find_package)"
+      - "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/_deps/googletest-src/googletest/CMakeLists.txt:83 (config_compiler_and_linker)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-cd3rxc"
+      binary: "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-cd3rxc"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/Учёба/Презентации/3 курс/Производственная практика/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-cd3rxc'
+        
+        Run Build Command(s): "D:/Visual Studio 2022/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9949a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        ‚ҐабЁп MSBuild 17.9.8+b34f75857 ¤«п .NET Framework
+        ‘Ў®аЄ  ­ з в  22.04.2024 16:53:59.
+        
+        Џа®ҐЄв "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cd3rxc\\cmTC_9949a.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        PrepareForBuild:
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_9949a.dir\\Debug\\".
+          ‘вагЄвгаЁа®ў ­­л© ўлў®¤ ўЄ«озҐ­. ”®а¬ вЁа®ў ­ЁҐ ¤Ё Ј­®бвЁЄЁ Є®¬ЇЁ«пв®а  Ўг¤Ґв ®ва ¦ вм ЁҐа аеЁо ®иЁЎ®Є. Џ®¤а®Ў­ҐҐ б¬. https://aka.ms/cpp/structured-output.
+          ‘®§¤ ­ЁҐ Є в «®Ј  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cd3rxc\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_9949a.dir\\Debug\\cmTC_9949a.tlog\\".
+        InitializeBuildStatus:
+          ‘®§¤ ­ЁҐ "cmTC_9949a.dir\\Debug\\cmTC_9949a.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+          ЋЎа йҐ­ЁҐ Є "cmTC_9949a.dir\\Debug\\cmTC_9949a.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9949a.dir\\Debug\\\\" /Fd"cmTC_9949a.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cd3rxc\\src.c"
+          ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.39.33523 ¤«п x64
+          (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9949a.dir\\Debug\\\\" /Fd"cmTC_9949a.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cd3rxc\\src.c"
+          src.c
+        D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cd3rxc\\src.c(1,10): error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: pthread.h: No such file or directory, [D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cd3rxc\\cmTC_9949a.vcxproj]
+        ‘Ў®аЄ  Їа®ҐЄв  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cd3rxc\\cmTC_9949a.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо) б ®иЁЎЄ®©.
+        
+        ЋиЁЎЄ  бЎ®аЄЁ.
+        
+        "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cd3rxc\\cmTC_9949a.vcxproj" (жҐ«Ґў®© ®ЎкҐЄв Ї® г¬®«з ­Ёо) (1) ->
+        (–Ґ«Ґў®© ®ЎкҐЄв ClCompile) -> 
+          D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cd3rxc\\src.c(1,10): error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: pthread.h: No such file or directory, [D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cd3rxc\\cmTC_9949a.vcxproj]
+        
+            ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+            ЋиЁЎ®Є: 1
+        
+        Џа®и«® ўаҐ¬Ґ­Ё 00:00:00.79
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "D:/CMake/share/cmake-3.29/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "D:/CMake/share/cmake-3.29/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/_deps/googletest-src/googletest/cmake/internal_utils.cmake:66 (find_package)"
+      - "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/_deps/googletest-src/googletest/CMakeLists.txt:83 (config_compiler_and_linker)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-gazppa"
+      binary: "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-gazppa"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/Учёба/Презентации/3 курс/Производственная практика/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-gazppa'
+        
+        Run Build Command(s): "D:/Visual Studio 2022/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_49788.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        ‚ҐабЁп MSBuild 17.9.8+b34f75857 ¤«п .NET Framework
+        ‘Ў®аЄ  ­ з в  22.04.2024 16:54:00.
+        
+        Џа®ҐЄв "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gazppa\\cmTC_49788.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        PrepareForBuild:
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_49788.dir\\Debug\\".
+          ‘вагЄвгаЁа®ў ­­л© ўлў®¤ ўЄ«озҐ­. ”®а¬ вЁа®ў ­ЁҐ ¤Ё Ј­®бвЁЄЁ Є®¬ЇЁ«пв®а  Ўг¤Ґв ®ва ¦ вм ЁҐа аеЁо ®иЁЎ®Є. Џ®¤а®Ў­ҐҐ б¬. https://aka.ms/cpp/structured-output.
+          ‘®§¤ ­ЁҐ Є в «®Ј  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gazppa\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_49788.dir\\Debug\\cmTC_49788.tlog\\".
+        InitializeBuildStatus:
+          ‘®§¤ ­ЁҐ "cmTC_49788.dir\\Debug\\cmTC_49788.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+          ЋЎа йҐ­ЁҐ Є "cmTC_49788.dir\\Debug\\cmTC_49788.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_49788.dir\\Debug\\\\" /Fd"cmTC_49788.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gazppa\\CheckFunctionExists.c"
+          ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.39.33523 ¤«п x64
+          (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_49788.dir\\Debug\\\\" /Fd"cmTC_49788.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gazppa\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gazppa\\Debug\\cmTC_49788.exe" /INCREMENTAL /ILK:"cmTC_49788.dir\\Debug\\cmTC_49788.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/“зсЎ /ЏаҐ§Ґ­в жЁЁ/3 Єгаб/Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ /FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-gazppa/Debug/cmTC_49788.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/“зсЎ /ЏаҐ§Ґ­в жЁЁ/3 Єгаб/Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ /FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-gazppa/Debug/cmTC_49788.lib" /MACHINE:X64  /machine:x64 cmTC_49788.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: ­Ґ г¤ Ґвбп ®вЄалвм д ©« "pthreads.lib" [D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gazppa\\cmTC_49788.vcxproj]
+        ‘Ў®аЄ  Їа®ҐЄв  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gazppa\\cmTC_49788.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо) б ®иЁЎЄ®©.
+        
+        ЋиЁЎЄ  бЎ®аЄЁ.
+        
+        "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gazppa\\cmTC_49788.vcxproj" (жҐ«Ґў®© ®ЎкҐЄв Ї® г¬®«з ­Ёо) (1) ->
+        (–Ґ«Ґў®© ®ЎкҐЄв Link) -> 
+          LINK : fatal error LNK1104: ­Ґ г¤ Ґвбп ®вЄалвм д ©« "pthreads.lib" [D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gazppa\\cmTC_49788.vcxproj]
+        
+            ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+            ЋиЁЎ®Є: 1
+        
+        Џа®и«® ўаҐ¬Ґ­Ё 00:00:00.96
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "D:/CMake/share/cmake-3.29/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "D:/CMake/share/cmake-3.29/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/_deps/googletest-src/googletest/cmake/internal_utils.cmake:66 (find_package)"
+      - "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/_deps/googletest-src/googletest/CMakeLists.txt:83 (config_compiler_and_linker)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-0jh47l"
+      binary: "D:/\u0423\u0447\u0451\u0431\u0430/\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438/3 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-0jh47l"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/Учёба/Презентации/3 курс/Производственная практика/FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-0jh47l'
+        
+        Run Build Command(s): "D:/Visual Studio 2022/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_34a04.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        ‚ҐабЁп MSBuild 17.9.8+b34f75857 ¤«п .NET Framework
+        ‘Ў®аЄ  ­ з в  22.04.2024 16:54:02.
+        
+        Џа®ҐЄв "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0jh47l\\cmTC_34a04.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        PrepareForBuild:
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_34a04.dir\\Debug\\".
+          ‘вагЄвгаЁа®ў ­­л© ўлў®¤ ўЄ«озҐ­. ”®а¬ вЁа®ў ­ЁҐ ¤Ё Ј­®бвЁЄЁ Є®¬ЇЁ«пв®а  Ўг¤Ґв ®ва ¦ вм ЁҐа аеЁо ®иЁЎ®Є. Џ®¤а®Ў­ҐҐ б¬. https://aka.ms/cpp/structured-output.
+          ‘®§¤ ­ЁҐ Є в «®Ј  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0jh47l\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_34a04.dir\\Debug\\cmTC_34a04.tlog\\".
+        InitializeBuildStatus:
+          ‘®§¤ ­ЁҐ "cmTC_34a04.dir\\Debug\\cmTC_34a04.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+          ЋЎа йҐ­ЁҐ Є "cmTC_34a04.dir\\Debug\\cmTC_34a04.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_34a04.dir\\Debug\\\\" /Fd"cmTC_34a04.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0jh47l\\CheckFunctionExists.c"
+          ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.39.33523 ¤«п x64
+          (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_34a04.dir\\Debug\\\\" /Fd"cmTC_34a04.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0jh47l\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          D:\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0jh47l\\Debug\\cmTC_34a04.exe" /INCREMENTAL /ILK:"cmTC_34a04.dir\\Debug\\cmTC_34a04.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/“зсЎ /ЏаҐ§Ґ­в жЁЁ/3 Єгаб/Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ /FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-0jh47l/Debug/cmTC_34a04.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/“зсЎ /ЏаҐ§Ґ­в жЁЁ/3 Єгаб/Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ /FinalTree/build/CMakeFiles/CMakeScratch/TryCompile-0jh47l/Debug/cmTC_34a04.lib" /MACHINE:X64  /machine:x64 cmTC_34a04.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: ­Ґ г¤ Ґвбп ®вЄалвм д ©« "pthread.lib" [D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0jh47l\\cmTC_34a04.vcxproj]
+        ‘Ў®аЄ  Їа®ҐЄв  "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0jh47l\\cmTC_34a04.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо) б ®иЁЎЄ®©.
+        
+        ЋиЁЎЄ  бЎ®аЄЁ.
+        
+        "D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0jh47l\\cmTC_34a04.vcxproj" (жҐ«Ґў®© ®ЎкҐЄв Ї® г¬®«з ­Ёо) (1) ->
+        (–Ґ«Ґў®© ®ЎкҐЄв Link) -> 
+          LINK : fatal error LNK1104: ­Ґ г¤ Ґвбп ®вЄалвм д ©« "pthread.lib" [D:\\“зсЎ \\ЏаҐ§Ґ­в жЁЁ\\3 Єгаб\\Џа®Ё§ў®¤бвўҐ­­ п Їа ЄвЁЄ \\FinalTree\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0jh47l\\cmTC_34a04.vcxproj]
+        
+            ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+            ЋиЁЎ®Є: 1
+        
+        Џа®и«® ўаҐ¬Ґ­Ё 00:00:00.93
+        
+      exitCode: 1
+...

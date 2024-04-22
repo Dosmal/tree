@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeFiles\21ee78e4d5d6a7e58377e82bfcbf9901\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeFiles\21ee78e4d5d6a7e58377e82bfcbf9901\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeFiles\21ee78e4d5d6a7e58377e82bfcbf9901\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeFiles\21ee78e4d5d6a7e58377e82bfcbf9901\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeFiles\21ee78e4d5d6a7e58377e82bfcbf9901\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeFiles\21ee78e4d5d6a7e58377e82bfcbf9901\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeFiles\21ee78e4d5d6a7e58377e82bfcbf9901\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeFiles\21ee78e4d5d6a7e58377e82bfcbf9901\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeFiles\9f38ab28a106e956a20b98e940534e7b\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeFiles\d8bdb7e897983da5283e277898dc3b75\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Учёба\Презентации\3 курс\Производственная практика\FinalTree\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8AFEDE38-36D4-3CD0-B260-A311CF9C5E03}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
